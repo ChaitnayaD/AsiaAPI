@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AsiaAPI/static/css/main.d8fb6b27.chunk.css",
+    "main.js": "/AsiaAPI/static/js/main.4fdfdb3d.chunk.js",
+    "main.js.map": "/AsiaAPI/static/js/main.4fdfdb3d.chunk.js.map",
+    "runtime-main.js": "/AsiaAPI/static/js/runtime-main.7fba0a2f.js",
+    "runtime-main.js.map": "/AsiaAPI/static/js/runtime-main.7fba0a2f.js.map",
+    "static/js/2.e3b611e8.chunk.js": "/AsiaAPI/static/js/2.e3b611e8.chunk.js",
+    "static/js/2.e3b611e8.chunk.js.map": "/AsiaAPI/static/js/2.e3b611e8.chunk.js.map",
+    "static/js/3.2ed97d72.chunk.js": "/AsiaAPI/static/js/3.2ed97d72.chunk.js",
+    "static/js/3.2ed97d72.chunk.js.map": "/AsiaAPI/static/js/3.2ed97d72.chunk.js.map",
+    "index.html": "/AsiaAPI/index.html",
+    "static/css/main.d8fb6b27.chunk.css.map": "/AsiaAPI/static/css/main.d8fb6b27.chunk.css.map",
+    "static/js/2.e3b611e8.chunk.js.LICENSE.txt": "/AsiaAPI/static/js/2.e3b611e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fba0a2f.js",
+    "static/js/2.e3b611e8.chunk.js",
+    "static/css/main.d8fb6b27.chunk.css",
+    "static/js/main.4fdfdb3d.chunk.js"
+  ]
+}
